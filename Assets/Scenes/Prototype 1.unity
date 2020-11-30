@@ -1259,6 +1259,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 15
+  turnSpeed: 25
+  horizontalInput: 0
+  forwardInput: 0
 --- !u!1 &532769922 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 134104, guid: 71782582b9d2cac4cba5251a3b767d13,
